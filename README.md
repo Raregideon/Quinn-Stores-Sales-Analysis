@@ -1,6 +1,7 @@
 ## Quinn Stores Sales Analysis
 
 ![](intro_pic.jpeg)
+
 ### 1. Introduction
 This project comprehensively analyzes the sales and profit data for an imaginary store called **Quinn Stores**, across various categories, products, and regions. The goal is to identify key insights and provide actionable recommendations to maximize the company's profit margins and improve overall performance.
 **_Disclaimer_**: The dataset used in this project is not affiliated with any company. The report aims solely to showcase @Raregideon’s skills as a Data Analyst. 
@@ -20,25 +21,26 @@ The analysis showcases a variety of data analysis skills, including:
 - Analytical thinking and problem-solving.
 - Business intelligence and strategic planning.
 
-#### 4. Data Sourcing
+### 4. Data Sourcing
 The data for this analysis was sourced from MyOnlineTrainingHub on YouTube, an Excel file containing sales records. The dataset includes information on the month, seller, category, product, state, sales, and profit. This dataset serves as the foundation for all subsequent analysis.
 
-#### 5. Data Transformation
+### 5. Data Transformation
 The data transformation process involved:
 - Loading the dataset from the Excel file.
 - Checking for missing values and data inconsistencies.
 - Aggregating sales and profit data by various dimensions such as category, product, and state.
 - Calculating additional metrics such as profit margins.
 
-#### 6. Data Modelling
+### 6. Data Modelling
 Data modeling involved summarizing and structuring the data to answer key business questions. This included:
 - Grouping data by category and product to identify high-performing segments.
 - Aggregating data by state to understand regional performance.
 - Analyzing monthly trends to identify seasonal patterns.
 
-#### 7. Analytics and Visualization
+### 7. Analytics and Visualization
 
 ![](Analysis.png)
+
 The analytics process included:
 - Calculating total sales and profit by category and product to identify top performers.
 - Summarizing sales and profit by state to reveal regional insights.
@@ -46,12 +48,13 @@ The analytics process included:
 - Visualizing the data using charts and graphs for easy interpretation and presentation.
 
   ![](Dashboard.png)
+  
 Key visualizations included:
 - Bar charts for total sales and profit by category and product.
 - Treemaps for regional sales and profit distribution.
 - Line charts for monthly sales trends.
 
-#### 8. Conclusion and Recommendations
+### 8. Conclusion and Recommendations
 The analysis revealed several key insights:
 - **High-Performing Categories and Products:** Sports & Fitness and Home Appliances categories, along with products like Jeans and Microwave, are top performers in terms of profit.
 - **Regional Performance:** Certain states contribute significantly to sales and profit, while others underperform.
