@@ -1,6 +1,6 @@
 ## Quinn Stores Sales Analysis
 
-![](intro_pic.jpeg)
+![](Intro_pic.jpeg)
 
 ### 1. Introduction
 This project comprehensively analyzes the sales and profit data for an imaginary store called **Quinn Stores**, across various categories, products, and regions. The goal is to identify key insights and provide actionable recommendations to maximize the company's profit margins and improve overall performance.
